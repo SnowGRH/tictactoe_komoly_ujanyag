@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+.elem{
+    background-color: gray;
+    border: 1px solid black;
+    width: 15%;
+    height: 15%;
+}
+p{
+    text-align: center;
+
+}
